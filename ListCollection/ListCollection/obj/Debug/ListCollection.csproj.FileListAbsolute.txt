@@ -1,0 +1,6 @@
+D:\GitRepo\SequencialCollections-Repo\ListCollection\ListCollection\bin\Debug\ListCollection.exe.config
+D:\GitRepo\SequencialCollections-Repo\ListCollection\ListCollection\bin\Debug\ListCollection.exe
+D:\GitRepo\SequencialCollections-Repo\ListCollection\ListCollection\bin\Debug\ListCollection.pdb
+D:\GitRepo\SequencialCollections-Repo\ListCollection\ListCollection\obj\Debug\ListCollection.csprojResolveAssemblyReference.cache
+D:\GitRepo\SequencialCollections-Repo\ListCollection\ListCollection\obj\Debug\ListCollection.exe
+D:\GitRepo\SequencialCollections-Repo\ListCollection\ListCollection\obj\Debug\ListCollection.pdb
