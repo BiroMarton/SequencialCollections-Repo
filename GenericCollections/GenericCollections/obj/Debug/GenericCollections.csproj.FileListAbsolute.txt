@@ -1,0 +1,6 @@
+D:\GitRepo\SequencialCollections-Repo\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+D:\GitRepo\SequencialCollections-Repo\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+D:\GitRepo\SequencialCollections-Repo\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+D:\GitRepo\SequencialCollections-Repo\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csprojResolveAssemblyReference.cache
+D:\GitRepo\SequencialCollections-Repo\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+D:\GitRepo\SequencialCollections-Repo\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb
