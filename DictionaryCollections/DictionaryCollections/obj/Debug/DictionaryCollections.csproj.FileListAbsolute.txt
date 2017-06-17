@@ -1,0 +1,6 @@
+D:\GitRepo\SequencialCollections-Repo\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+D:\GitRepo\SequencialCollections-Repo\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+D:\GitRepo\SequencialCollections-Repo\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+D:\GitRepo\SequencialCollections-Repo\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.csprojResolveAssemblyReference.cache
+D:\GitRepo\SequencialCollections-Repo\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+D:\GitRepo\SequencialCollections-Repo\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb
